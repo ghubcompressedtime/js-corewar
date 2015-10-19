@@ -1,0 +1,1 @@
+Since Corewar and it's dependencies seem to have gone neglected and I want to play corewar on a multitude of platforms, I'm attempting to recreate an environment in javascript in which redcode command can be executed within a javascript array in which two warriors can be loaded. In part, this project is intended to easily show how address and values correlate.
